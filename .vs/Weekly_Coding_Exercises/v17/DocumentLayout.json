@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|solutionrelative:Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|solutionrelative:Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex1.4-Students (Hackerank).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,11 +47,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Week3( Struct)-Ex3.11.cpp",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11.cpp",
-              "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11.cpp",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11.cpp",
-              "RelativeToolTip": "Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11.cpp",
+              "Title": "Week3( Struct)-Ex3.11-Struct_String.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
+              "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
+              "RelativeToolTip": "Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-04T16:10:17.048Z",
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Weekly_Coding_Exercises\\Week3( Struct)-Ex1.4-Students (Hackerank).cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-04T16:08:31.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T16:08:31.235Z"
             },
             {
               "$type": "Document",

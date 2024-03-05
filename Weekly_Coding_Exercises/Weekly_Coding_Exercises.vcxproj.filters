@@ -36,7 +36,7 @@
     <ClCompile Include="Week3( Struct)-Ex1.4-Students (Hackerank).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Week3( Struct)-Ex3.11.cpp">
+    <ClCompile Include="Week3%28 Struct%29-Ex3.11-Struct_String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
