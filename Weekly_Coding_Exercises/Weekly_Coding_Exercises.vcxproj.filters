@@ -39,5 +39,14 @@
     <ClCompile Include="Week3%28 Struct%29-Ex3.11-Struct_String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week4-Array-A1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-A2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4-A3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

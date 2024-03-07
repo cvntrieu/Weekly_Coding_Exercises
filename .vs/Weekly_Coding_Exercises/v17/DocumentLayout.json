@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-A3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|solutionrelative:Weekly_Coding_Exercises\\Week4-A3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-A2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|solutionrelative:Weekly_Coding_Exercises\\Week4-A2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-Array-A1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|solutionrelative:Weekly_Coding_Exercises\\Week4-Array-A1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{733DD057-F32E-43AA-9C1F-F5CA3D72245C}|Weekly_Coding_Exercises\\Weekly_Coding_Exercises.vcxproj|solutionrelative:Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,6 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Week4-A3.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-A3.cpp",
+              "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week4-A3.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-A3.cpp",
+              "RelativeToolTip": "Weekly_Coding_Exercises\\Week4-A3.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T07:43:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week4-A2.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-A2.cpp",
+              "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week4-A2.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-A2.cpp",
+              "RelativeToolTip": "Weekly_Coding_Exercises\\Week4-A2.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T07:09:39.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Week4-Array-A1.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-Array-A1.cpp",
+              "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week4-Array-A1.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week4-Array-A1.cpp",
+              "RelativeToolTip": "Weekly_Coding_Exercises\\Week4-Array-A1.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T08:25:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Week3( Struct)-Ex3.11-Struct_String.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
@@ -54,12 +105,11 @@
               "RelativeToolTip": "Weekly_Coding_Exercises\\Week3( Struct)-Ex3.11-Struct_String.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-04T16:10:17.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T16:10:17.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Week3( Struct)-Ex1.4-Students (Hackerank).cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week3( Struct)-Ex1.4-Students (Hackerank).cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week3( Struct)-Ex1.4-Students (Hackerank).cpp",
@@ -71,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Week 3( Struct 1) -Point-Rect.-Ship.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week 3( Struct 1) -Point-Rect.-Ship.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week 3( Struct 1) -Point-Rect.-Ship.cpp",
@@ -83,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Week2-C7.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week2-C7.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week2-C7.cpp",
@@ -95,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Week2-C4.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week2-C4.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week2-C4.cpp",
@@ -107,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Week2-BaiC2.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week2-BaiC2.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week2-BaiC2.cpp",
@@ -119,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Week2-C3.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week2-C3.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week2-C3.cpp",
@@ -131,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Week2-BaiC1.cpp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Weekly_Coding_Exercises\\Weekly_Coding_Exercises\\Week2-BaiC1.cpp",
               "RelativeDocumentMoniker": "Weekly_Coding_Exercises\\Week2-BaiC1.cpp",
