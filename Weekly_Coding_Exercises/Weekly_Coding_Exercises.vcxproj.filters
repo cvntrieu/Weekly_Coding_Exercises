@@ -48,5 +48,14 @@
     <ClCompile Include="Week4-A3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week4 - A4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week4- A5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Week 4 - A6, Bubble Sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
