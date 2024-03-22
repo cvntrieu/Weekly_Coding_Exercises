@@ -1,5 +1,4 @@
 
-// Accepted Answer:
 // push_back: Tao ban sao, rat can than! Nhat khi texture bi huy ma lai dung lai
 // An toan hon: Con tro & Bo nho dong
 #include <cmath>
