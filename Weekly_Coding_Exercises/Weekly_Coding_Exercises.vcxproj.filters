@@ -138,6 +138,9 @@
     <ClCompile Include="Week 7 - A7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Week7 - C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Week 1-Painter.h">
