@@ -14,7 +14,9 @@ int main() {
 	delete c;
 	cerr << "a after deleting c:" << "-" << a << "-" << endl;
 
-	// 
+	// c dang tro toi 1 phan cua xau ki tu a ( tinh tu a[3] )
+	// Giai phong c ( tuc giai phong 1 phan xau a ban dau )
+	// => Van co tinh in ra a da bi giai phong 1 lan, SAI!
 
 	return 0;
 }
